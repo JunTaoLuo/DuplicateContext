@@ -1,0 +1,9 @@
+C:\gh\tp\BlazorWasm\Shared\bin\Debug\net5.0\BlazorWasm.Shared.deps.json
+C:\gh\tp\BlazorWasm\Shared\bin\Debug\net5.0\BlazorWasm.Shared.dll
+C:\gh\tp\BlazorWasm\Shared\bin\Debug\net5.0\BlazorWasm.Shared.pdb
+C:\gh\tp\BlazorWasm\Shared\obj\Debug\net5.0\BlazorWasm.Shared.csprojAssemblyReference.cache
+C:\gh\tp\BlazorWasm\Shared\obj\Debug\net5.0\BlazorWasm.Shared.AssemblyInfoInputs.cache
+C:\gh\tp\BlazorWasm\Shared\obj\Debug\net5.0\BlazorWasm.Shared.AssemblyInfo.cs
+C:\gh\tp\BlazorWasm\Shared\obj\Debug\net5.0\BlazorWasm.Shared.csproj.CoreCompileInputs.cache
+C:\gh\tp\BlazorWasm\Shared\obj\Debug\net5.0\BlazorWasm.Shared.dll
+C:\gh\tp\BlazorWasm\Shared\obj\Debug\net5.0\BlazorWasm.Shared.pdb

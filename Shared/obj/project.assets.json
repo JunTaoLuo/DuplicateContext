@@ -1,0 +1,64 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\johluo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\gh\\tp\\BlazorWasm\\Shared\\BlazorWasm.Shared.csproj",
+      "projectName": "BlazorWasm.Shared",
+      "projectPath": "C:\\gh\\tp\\BlazorWasm\\Shared\\BlazorWasm.Shared.csproj",
+      "packagesPath": "C:\\Users\\johluo\\.nuget\\packages\\",
+      "outputPath": "C:\\gh\\tp\\BlazorWasm\\Shared\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\johluo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\gh\\aspnetcore\\artifacts\\packages\\Debug\\Shipping": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\gh\\aspnetcore\\.dotnet\\sdk\\5.0.100-rc.1.20379.10\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
